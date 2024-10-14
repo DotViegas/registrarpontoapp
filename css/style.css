@@ -39,7 +39,6 @@ menu{
 .menu__sessao{
     width: 74vw;
     height: 6vh;
-    background-color: #c00303;
     display: flex;
     flex-direction: row-reverse;
     align-items: center;

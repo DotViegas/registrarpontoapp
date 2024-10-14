@@ -1,4 +1,4 @@
-const nome = 'Administrador';
+const nome = 'João Victor';
 
 // Seleciona o elemento pelo seletor de classe
 let nameElement = document.querySelector('.name_system');
